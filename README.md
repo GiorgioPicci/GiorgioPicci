@@ -4,7 +4,7 @@
   <br>
 
   
-- 🌱 I’m currently learning Python and Machine learning and Data science
+- 🌱 I’m currently learning Python, Machine learning and Data science
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: giorgiopiccni@outlook.com, 
 - 📣 Ask me about Python, Machine learning, Data science 
