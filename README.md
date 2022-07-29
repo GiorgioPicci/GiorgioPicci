@@ -1,10 +1,10 @@
-### Hi there My Name is Giorgio Piccini,  I'am A Developer Student in Python: 
+### Hi there My Name is Giorgio Piccini,  I'am A Python Developer: 
   
 
   <br>
 
   
-- 🌱 I’m currently learning Python, Machine learning and Data science, webscrepping
+- 🌱 I’m currently learning Python, Machine learning and Data science.
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: giorgiopiccini@outlook.com 
 - 📣 Ask me about Python, Machine learning, Data science, APIs, webscrepping, python for back-end  
