@@ -3,11 +3,9 @@
 
   <br>
 
-  
-- 🌱 I’m currently learning Python, Machine learning and Data science.
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: giorgiopiccini@outlook.com 
-- 📣 Ask me about Python, Machine learning, Data science, APIs, webscraping, python for back-end  
+- 📣 Ask me about Python,  Data science, APIs, webscraping, python for Web and Mobile  
 
   
   <br><br>
