@@ -1,11 +1,11 @@
-### Hi there My Name is Giorgio Piccini,  I'am A Python Developer: 
+### Hi there My Name is Giorgio Piccini,  I'am A Python Developer and a in a processes to be a cloud Developer: 
   
 
   <br>
 
-- 👯 I’m looking to collaborate on open source projects
+- 👯 I’m looking to collaborate on open source projects, Starting My Studies on Cloud,
 - 📫 How to reach me: giorgiopiccini@outlook.com 
-- 📣 Ask me about Python,  Data science, APIs, webscraping, python for Web and Mobile  
+- 📣 Ask me about Python,  Cloud, APIs, webscraping, python for Web and Mobile  
 
   
   <br><br>
