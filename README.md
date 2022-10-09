@@ -1,4 +1,4 @@
-### Hi there My Name is Giorgio Piccini,  I'am A Python Developer and on a processes to be a Cloud Developer: 
+### Hi there My Name is Giorgio Piccini,  I'am A Python Developer and on a Processes to be a Cloud Developer: 
   
 
   <br>
